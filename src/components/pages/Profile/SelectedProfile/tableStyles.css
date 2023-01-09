@@ -1,0 +1,17 @@
+/* .MuiDataGrid-columnHeader{
+    /* background-color: #5fbbff; } */
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle{
+    font-weight: 900 !important;
+}
+
+.MuiDataGrid-root .MuiDataGrid-cell:focus {
+    outline: none !important
+}
+
+.MuiDataGrid-cell--withRenderer .MuiDataGrid-cell:focus{
+    outline: none !important
+}
+
+.css-1e2bxag-MuiDataGrid-root .MuiDataGrid-columnHeader:focus-within, .css-1e2bxag-MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+    outline: none !important
+}
